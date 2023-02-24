@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4484665d6ba8f48418e07d18e95700aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textoDaVida: {instanceID: 0}
+  - textoDaPontuacao: {instanceID: 0}
+  - textoFinal: {instanceID: 0}
+  - botaoFinal: {instanceID: 0}
+  - particulaExplosao: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
